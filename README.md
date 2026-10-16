@@ -1,8 +1,8 @@
 # Prediksi-gaji-menggunakan-machine-learning
- Deskripsi Proyek
+ # Deskripsi Proyek
 Proyek ini merupakan analisis data lowongan pekerjaan Data Engineer menggunakan Python dan Jupyter Notebook. Proyek bertujuan untuk memahami karakteristik lowongan kerja Data Engineer melalui proses eksplorasi data, pembersihan data, penanganan missing values, deteksi outlier, transformasi data, serta analisis korelasi antarvariabel. 
 Dataset yang digunakan berisi informasi mengenai lowongan pekerjaan Data Engineer, seperti jabatan, estimasi gaji, deskripsi pekerjaan, rating perusahaan, lokasi, industri, dan informasi perusahaan lainnya.
-Tujuan Proyek
+# Tujuan Proyek
 
 Memahami struktur dan karakteristik dataset lowongan kerja Data Engineer.
 
@@ -16,7 +16,7 @@ Melakukan transformasi dan standarisasi data.
 
 Menganalisis distribusi data dan korelasi antarvariabel, khususnya terhadap rating.
 
-📂 Dataset
+# Dataset
 
 Dataset yang digunakan adalah DataEngineer.csv.
 
@@ -86,7 +86,7 @@ Easy Apply
 
 Informasi kemudahan melamar pekerjaan
 
-🛠️ Tools dan Library
+# Tools dan Library
 
 Proyek ini menggunakan beberapa library Python:
 
@@ -98,7 +98,7 @@ Matplotlib — untuk membuat grafik dan visualisasi.
 
 Scikit-learn — untuk standarisasi data menggunakan StandardScaler serta encoding menggunakan LabelEncoder.
 
-🔄 Tahapan Analisis Data
+# Tahapan Analisis Data
 
 1. Data Loading
 
@@ -154,7 +154,7 @@ Grafik korelasi untuk mengetahui hubungan variabel dengan rating perusahaan.
 
 Menghitung korelasi antarvariabel numerik dan mengurutkan nilai korelasi absolut terhadap kolom Rating untuk membantu mengidentifikasi variabel yang memiliki hubungan linear relatif kuat dengan rating perusahaan.
 
-📊 Hasil yang Diharapkan
+# Hasil yang Diharapkan
 
 Melalui tahapan analisis tersebut, proyek ini diharapkan dapat menghasilkan pemahaman yang lebih baik mengenai:
 
@@ -168,7 +168,7 @@ Hubungan linear antara atribut numerik dan rating perusahaan.
 
 Data yang lebih terstruktur untuk digunakan pada analisis atau pengembangan model machine learning berikutnya.
 
-💻 Cara Menjalankan Proyek
+# Cara Menjalankan Proyek
 
 Clone repository GitHub:
 
@@ -190,20 +190,20 @@ jupyter notebook
 
 Buka Laporan.ipynb dan jalankan setiap cell secara berurutan.
 
-📁 Struktur Repository
+# Struktur Repository
 
 DataEngineer-Analysis/
 ├── DataEngineer.csv
 ├── Laporan.ipynb
 └── README.md
 
-📝 Kesimpulan
+# Kesimpulan
 
 Proyek ini menerapkan proses pengolahan dan eksplorasi data lowongan pekerjaan Data Engineer menggunakan Python. Proses meliputi pemeriksaan data, penanganan missing values, analisis outlier, standarisasi, encoding data kategorikal, visualisasi, serta analisis korelasi.
 
 Hasil eksplorasi ini dapat menjadi dasar untuk pengembangan proyek machine learning selanjutnya, misalnya untuk memprediksi rating perusahaan atau melakukan analisis estimasi gaji, setelah menentukan target, fitur, dan metode evaluasi yang sesuai.
 
-Author: [Nama Kamu]
+Author: [Adam Faisal Jabbar]
 
 Project Type: Data Analysis / Data Preprocessing / Exploratory Data Analysis (EDA)
 
